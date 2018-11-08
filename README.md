@@ -6,10 +6,9 @@ _____
 
 <h2>The Snippets</h2>
 
-<ul>
-<li><h3>Day calculator</h3</li>
-This code snippet is simply a converter which will take a date and convert it using the inbuilt getDay() function. It then contains a Switch case on the Date variable which will assign the actual day to the day variable.
-</ul>
+
+1.<h3>Day calculator</h3>
+	* This code snippet is simply a converter which will take a date and convert it using the inbuilt getDay() function. It then contains a Switch case on the Date variable which will assign the actual day to the day variable.
 
 ...
 
