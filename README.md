@@ -9,7 +9,7 @@ _____
 
 <h3>1. Day calculator</h3>
 
- 	This code snippet is simply a converter which will take a date and convert it using the inbuilt getDay()
+This code snippet is simply a converter which will take a date and convert it using the inbuilt getDay()
 function. It then contains a Switch case on the Date variable which will assign the actual day to the day variable.
 
 
