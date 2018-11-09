@@ -1,3 +1,5 @@
+echo "Please provide your github .git link"
+read <githublink>
 echo "Creating remote"
 git remote add origin <repo link>
 echo "staging all changes"
