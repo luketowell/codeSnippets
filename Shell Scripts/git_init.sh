@@ -1,5 +1,5 @@
 echo "Creating remote"
-git remote add origin https://github.com/luketowell/book_list.git
+git remote add origin <repo link>
 echo "staging all changes"
 git add .
 echo "Creating initial commit"
